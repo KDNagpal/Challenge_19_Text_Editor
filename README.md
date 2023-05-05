@@ -20,7 +20,7 @@ no installation needed
 ## Usage
 
 click the link and type away
-
+https://basic-text-editor.herokuapp.com/ 
 ## Credits
 
 N/A
